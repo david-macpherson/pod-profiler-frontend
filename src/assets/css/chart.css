@@ -1,0 +1,35 @@
+.chart-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.chart-container {
+    width: 450px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.chart-header {
+    text-align: center;
+}
+
+.chart-usage {
+    text-align: center;
+}
+
+.chart-chart {
+    align-content: center;
+}
+
+.chart-stats {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.chart-stats-table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
