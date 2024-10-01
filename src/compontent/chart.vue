@@ -33,7 +33,7 @@ onMounted(async () => {
 })
 
 setInterval(() => {
-    //go()
+    go()
 }, 5000);
 
 async function go() {
